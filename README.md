@@ -1,5 +1,4 @@
-# exercise04
-Python &amp; Pandas &amp; SQLite
+# Python &amp; Pandas &amp; SQLite
 
 As requested by Professor, now the application saves the data on the SQLite database. 
 
